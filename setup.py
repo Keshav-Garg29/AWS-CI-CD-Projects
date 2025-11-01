@@ -23,5 +23,4 @@ author='Keshav Garg',
 author_email='keshugarg292005@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
-
 )
